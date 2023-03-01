@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106710582607",
+    "project_id": "notestask5",
+    "storage_bucket": "notestask5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106710582607:android:617e6c00701659a24b313a",
+        "android_client_info": {
+          "package_name": "com.example.task5flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106710582607-ebdaqddaaa5u0u2aoinha9ekerftannh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmfx9BqLFBOHKuDyddydKdX-A7L0iYjmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106710582607-ebdaqddaaa5u0u2aoinha9ekerftannh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
